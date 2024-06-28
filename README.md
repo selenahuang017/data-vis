@@ -14,3 +14,9 @@ June 2024:
     - https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p/about_data
     - https://data.sanjoseca.gov/dataset/animal-shelter-intake-and-outcomes/resource/2a130c41-ca89-4084-9a28-19709b3f24dd
 - decided on Python 
+
+### Notes for myself:
+- git fetch
+- go into folder
+- jupyter notebook
+- can view on webpage
