@@ -10,7 +10,7 @@ Working on creating an app for data visualization, and practicing python!
 ## Timeline
 June 2024:
 - created project
-- found databases on interest:
+- found databases of interest:
     - https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p/about_data
     - https://data.sanjoseca.gov/dataset/animal-shelter-intake-and-outcomes/resource/2a130c41-ca89-4084-9a28-19709b3f24dd
 - decided on Python 
