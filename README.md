@@ -1,6 +1,8 @@
 # Data Visualization Project
 Working on creating an app for data visualization, and practicing python!
 
+To view the functional python notebook, go to [nbviewer](https://nbviewer.org/github/selenahuang017/data-vis/blob/main/python/San%20Jose%20Animal%20Shelter.ipynb)
+
 ## Goals
 1) Practice with Python & Jupyter Notebook
 2) Access and practice data visualization
